@@ -1,0 +1,5 @@
+car_model,stock_level,reorder_threshold
+Ertiga,50,50
+WagonR,80,30
+Brezza,60,40
+Grand Vitara,30,25
